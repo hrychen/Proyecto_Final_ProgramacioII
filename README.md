@@ -1,5 +1,4 @@
-# Proyecto Final Programacio II
-# Projecte Regals - Gestió de Regals
+# Proyecto Final Programacio II - Gestió de Regals
 
 ## Descripció
 
